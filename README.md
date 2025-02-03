@@ -251,12 +251,6 @@ docker logs <container_id>
 
 ---
 
-## 14. Docker Alternatives & Future Trends
-- **Podman**
-- **Rootless Containers**
-- **Future of Containerization**
-
----
 
 ## Resources
 - [Docker Official Documentation](https://docs.docker.com/)
